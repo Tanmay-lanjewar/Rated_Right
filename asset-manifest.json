@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Rated_Right/static/css/main.ae9ca53d.css",
+    "main.js": "/Rated_Right/static/js/main.84499208.js",
+    "static/media/login.mp4": "/Rated_Right/static/media/login.7b0711241159b2852d12.mp4",
+    "static/media/add.mp4": "/Rated_Right/static/media/add.3fc4ce7a98b3abcce764.mp4",
+    "static/media/reggister_clip.mp4": "/Rated_Right/static/media/reggister_clip.e3e16968569695494224.mp4",
+    "static/media/Company-bro.png": "/Rated_Right/static/media/Company-bro.988f5a5bd6a9c9022292.png",
+    "static/media/review_img.png": "/Rated_Right/static/media/review_img.dd9a146b4aa4e777a3ab.png",
+    "static/media/company_header.png": "/Rated_Right/static/media/company_header.f0c2bbc08037ab9c762d.png",
+    "index.html": "/Rated_Right/index.html",
+    "main.ae9ca53d.css.map": "/Rated_Right/static/css/main.ae9ca53d.css.map",
+    "main.84499208.js.map": "/Rated_Right/static/js/main.84499208.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae9ca53d.css",
+    "static/js/main.84499208.js"
+  ]
+}
